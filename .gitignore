@@ -1,0 +1,10 @@
+# dependency for visual studio and visual studio code
+.vs
+.vscode
+
+# Debug folder for vs project
+bin
+obj
+
+# disable executable file
+*.exe
